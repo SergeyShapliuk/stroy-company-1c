@@ -39,48 +39,6 @@
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
-		<InputField name="Номер" id="1">
-			<DataPath>Объект.Number</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="НомерКонтекстноеМеню" id="2"/>
-			<ExtendedTooltip name="НомерРасширеннаяПодсказка" id="3"/>
-		</InputField>
-		<InputField name="Дата" id="4">
-			<DataPath>Объект.Date</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ДатаКонтекстноеМеню" id="5"/>
-			<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="6"/>
-		</InputField>
-		<InputField name="ОбъектСтроительства" id="7">
-			<DataPath>Объект.ОбъектСтроительства</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ОбъектСтроительстваКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="ОбъектСтроительстваРасширеннаяПодсказка" id="9"/>
-		</InputField>
-		<InputField name="Ответственный" id="10">
-			<DataPath>Объект.Ответственный</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ОтветственныйКонтекстноеМеню" id="11"/>
-			<ExtendedTooltip name="ОтветственныйРасширеннаяПодсказка" id="12"/>
-		</InputField>
-		<InputField name="Приоритет" id="13">
-			<DataPath>Объект.Приоритет</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ПриоритетКонтекстноеМеню" id="14"/>
-			<ExtendedTooltip name="ПриоритетРасширеннаяПодсказка" id="15"/>
-		</InputField>
-		<InputField name="Комментарий" id="16">
-			<DataPath>Объект.Комментарий</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КомментарийКонтекстноеМеню" id="17"/>
-			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="18"/>
-		</InputField>
 		<UsualGroup name="ГруппаШапка" id="19">
 			<Title>
 				<v8:item>
@@ -223,6 +181,9 @@
 				<ContextMenu name="МатериалыУправлениеПоискомКонтекстноеМеню" id="52"/>
 				<ExtendedTooltip name="МатериалыУправлениеПоискомРасширеннаяПодсказка" id="53"/>
 			</SearchControlAddition>
+			<Events>
+				<Event name="AfterDeleteRow">МатериалыПослеУдаления</Event>
+			</Events>
 			<ChildItems>
 				<LabelField name="МатериалыНомерСтроки" id="54">
 					<DataPath>Объект.Материалы.LineNumber</DataPath>
@@ -267,9 +228,6 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="МатериалыСуммаКонтекстноеМеню" id="67"/>
 					<ExtendedTooltip name="МатериалыСуммаРасширеннаяПодсказка" id="68"/>
-					<Events>
-						<Event name="OnChange">ПересчитатьСуммуСтроки</Event>
-					</Events>
 				</InputField>
 			</ChildItems>
 		</Table>
