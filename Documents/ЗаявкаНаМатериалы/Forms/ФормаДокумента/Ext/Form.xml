@@ -32,6 +32,22 @@
 				<CommandName>Form.Command.Отклонить</CommandName>
 				<ExtendedTooltip name="ФормаОтклонитьРасширеннаяПодсказка" id="80"/>
 			</Button>
+			<Popup name="ФормаСоздатьНаОсновании" id="81">
+				<Title>
+					<v8:item>
+						<v8:lang>ru</v8:lang>
+						<v8:content>Создать на основании</v8:content>
+					</v8:item>
+				</Title>
+				<ExtendedTooltip name="ФормаСоздатьНаОснованииРасширеннаяПодсказка" id="82"/>
+				<ChildItems>
+					<Button name="ФормаСоздатьПоступлениеМатериалов" id="83">
+						<Type>CommandBarButton</Type>
+						<CommandName>Form.Command.СоздатьПоступлениеМатериалов</CommandName>
+						<ExtendedTooltip name="ФормаСоздатьПоступлениеМатериаловРасширеннаяПодсказка" id="84"/>
+					</Button>
+				</ChildItems>
+			</Popup>
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
@@ -318,6 +334,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>Отклонить</Action>
+		</Command>
+		<Command name="СоздатьПоступлениеМатериалов" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Поступление материалов</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Оформить поступление материалов по этой заявке</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>СоздатьПоступлениеМатериалов</Action>
 		</Command>
 	</Commands>
 </Form>
