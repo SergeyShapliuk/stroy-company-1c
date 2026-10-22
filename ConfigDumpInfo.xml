@@ -96,6 +96,8 @@
 			<Metadata name="InformationRegister.ЦеныМатериалов.Resource.Цена" id="1380275a-e7e2-4e01-af99-3b8d3cf12af5"/>
 			<Metadata name="InformationRegister.ЦеныМатериалов.Dimension.Материал" id="76aacd42-cf72-47b3-a774-e0e18980aba7"/>
 		</Metadata>
+		<Metadata name="InformationRegister.ЦеныМатериалов.Form.ФормаЗаписи" id="c677880b-12d5-4dcb-ae6b-06b2d29bd94e" configVersion="67dd2cc8497448e18ef6ceba3240ded100000000"/>
+		<Metadata name="InformationRegister.ЦеныМатериалов.Form.ФормаЗаписи.Form" id="c677880b-12d5-4dcb-ae6b-06b2d29bd94e.0" configVersion="67dd2cc8497448e18ef6ceba3240ded200000000"/>
 		<Metadata name="Language.Русский" id="2de1c36c-9287-4d42-8ad6-96e6a96b54a1" configVersion="74494eacda106344a22352ca9bc7750d00000000"/>
 		<Metadata name="Subsystem.Компания" id="5a284e2d-2e83-4050-8719-df290f987414" configVersion="ae256e952e46064cb2f47a9268f48e0400000000"/>
 		<Metadata name="Subsystem.Логистика" id="77f7bb6f-993d-4897-8182-c2286397d3ec" configVersion="405ccec410e0c942b57ba96868fb7a4900000000"/>
