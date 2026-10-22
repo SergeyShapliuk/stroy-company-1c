@@ -271,6 +271,7 @@
 			<Enum>СостоянияЗаявок</Enum>
 			<DataProcessor>УчебнаяКонсоль</DataProcessor>
 			<DataProcessor>НормализацияСправочников</DataProcessor>
+			<InformationRegister>ЦеныМатериалов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
