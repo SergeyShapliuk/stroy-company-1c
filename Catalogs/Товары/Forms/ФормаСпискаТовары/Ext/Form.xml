@@ -84,11 +84,6 @@
 					<ContextMenu name="АртикулКонтекстноеМеню" id="23"/>
 					<ExtendedTooltip name="АртикулРасширеннаяПодсказка" id="24"/>
 				</LabelField>
-				<LabelField name="Цена" id="25">
-					<DataPath>Список.Цена</DataPath>
-					<ContextMenu name="ЦенаКонтекстноеМеню" id="26"/>
-					<ExtendedTooltip name="ЦенаРасширеннаяПодсказка" id="27"/>
-				</LabelField>
 			</ChildItems>
 		</Table>
 	</ChildItems>
