@@ -52,6 +52,13 @@
 			<ContextMenu name="СкладКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="СкладРасширеннаяПодсказка" id="12"/>
 		</InputField>
+		<InputField name="ОбъектСтроительства" id="52">
+			<DataPath>Объект.ОбъектСтроительства</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ОбъектСтроительстваКонтекстноеМеню" id="53"/>
+			<ExtendedTooltip name="ОбъектСтроительстваРасширеннаяПодсказка" id="54"/>
+		</InputField>
 		<InputField name="Ответственный" id="13">
 			<DataPath>Объект.Ответственный</DataPath>
 			<EditMode>EnterOnInput</EditMode>

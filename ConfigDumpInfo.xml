@@ -84,6 +84,7 @@
 			<Metadata name="Document.ПоступлениеМатериалов.TabularSection.Материалы.Attribute.Материал" id="17f727f6-8090-44e7-83dc-df1e2ac77b10"/>
 			<Metadata name="Document.ПоступлениеМатериалов.TabularSection.Материалы.Attribute.Цена" id="1e287662-dead-4e9b-b728-ed3dd0db843c"/>
 			<Metadata name="Document.ПоступлениеМатериалов.Attribute.Ответственный" id="262fd72b-1a7d-4749-86e3-726fbfaf8634"/>
+			<Metadata name="Document.ПоступлениеМатериалов.Attribute.ОбъектСтроительства" id="74503158-7b3e-49b1-9d9b-95a2f7ebca83"/>
 			<Metadata name="Document.ПоступлениеМатериалов.TabularSection.Материалы.Attribute.Сумма" id="9024226b-df8e-4122-946e-0286457cbc6d"/>
 			<Metadata name="Document.ПоступлениеМатериалов.Attribute.ДокументОснование" id="a2b7f846-248a-4b10-bce3-9e2a8637dc00"/>
 			<Metadata name="Document.ПоступлениеМатериалов.Attribute.Поставщик" id="a40c34ce-cac9-4a82-b01b-712251c6ce4b"/>
