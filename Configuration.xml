@@ -266,12 +266,14 @@
 			<Catalog>ОбъектыСтроительства</Catalog>
 			<Document>ЗаявкаНаМатериалы</Document>
 			<Document>ПоступлениеМатериалов</Document>
+			<Document>ПередачаМатериалов</Document>
 			<Enum>ВидыКлиентов</Enum>
 			<Enum>ПриоритетыЗаявок</Enum>
 			<Enum>СостоянияЗаявок</Enum>
 			<DataProcessor>УчебнаяКонсоль</DataProcessor>
 			<DataProcessor>НормализацияСправочников</DataProcessor>
 			<InformationRegister>ЦеныМатериалов</InformationRegister>
+			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
