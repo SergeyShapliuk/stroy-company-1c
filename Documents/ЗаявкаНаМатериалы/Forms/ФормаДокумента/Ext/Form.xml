@@ -11,6 +11,11 @@
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
 		<ChildItems>
+			<Button name="ФормаЗаполнитьЦены" id="85">
+				<Type>CommandBarButton</Type>
+				<CommandName>Form.Command.ЗаполнитьЦены</CommandName>
+				<ExtendedTooltip name="ФормаЗаполнитьЦеныРасширеннаяПодсказка" id="86"/>
+			</Button>
 			<Button name="ФормаПересчитатьЗаявку" id="72">
 				<Type>CommandBarButton</Type>
 				<CommandName>Form.Command.ПересчитатьЗаявку</CommandName>
@@ -349,6 +354,22 @@
 				</v8:item>
 			</ToolTip>
 			<Action>СоздатьПоступлениеМатериалов</Action>
+		</Command>
+		<Command name="ЗаполнитьЦены" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить цены</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить цены</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ЗаполнитьЦены</Action>
+			<ModifiesSavedData>true</ModifiesSavedData>
 		</Command>
 	</Commands>
 </Form>

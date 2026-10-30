@@ -257,6 +257,8 @@
 			<CommonModule>УчебныеФункции</CommonModule>
 			<CommonModule>УчебныеФункцииКлиент</CommonModule>
 			<CommonModule>НормализацияСправочниковСервер</CommonModule>
+			<CommonModule>ОстаткиМатериаловСервер</CommonModule>
+			<CommonModule>СправкиСнабженцаСервер</CommonModule>
 			<Constant>НаименованиеКомпании</Constant>
 			<Constant>ДатаНачалаУчёта</Constant>
 			<Catalog>Клиенты</Catalog>
