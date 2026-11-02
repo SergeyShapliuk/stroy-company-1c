@@ -273,6 +273,8 @@
 			<Enum>ПриоритетыЗаявок</Enum>
 			<Enum>СостоянияЗаявок</Enum>
 			<Report>ОстаткиНаСкладах</Report>
+			<Report>ОборотнаяВедомостьМатериалов</Report>
+			<Report>ВыдачаПоОбъектам</Report>
 			<DataProcessor>УчебнаяКонсоль</DataProcessor>
 			<DataProcessor>НормализацияСправочников</DataProcessor>
 			<InformationRegister>ЦеныМатериалов</InformationRegister>
