@@ -278,6 +278,7 @@
 			<Report>ОбеспечениеОбъектов</Report>
 			<DataProcessor>УчебнаяКонсоль</DataProcessor>
 			<DataProcessor>НормализацияСправочников</DataProcessor>
+			<DataProcessor>ПанельСнабженца</DataProcessor>
 			<InformationRegister>ЦеныМатериалов</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 		</ChildObjects>

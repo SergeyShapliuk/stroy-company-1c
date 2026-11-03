@@ -27,6 +27,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОборотнаяВедомостьМатериалов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ВыдачаПоОбъектам</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОбеспечениеОбъектов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ПанельСнабженца</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

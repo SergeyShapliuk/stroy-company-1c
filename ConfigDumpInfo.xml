@@ -53,6 +53,9 @@
 		<Metadata name="DataProcessor.НормализацияСправочников" id="29fc22a9-2914-462f-920a-97616ae1b5c8" configVersion="1684abe98df27847883556e0b6293f3200000000"/>
 		<Metadata name="DataProcessor.НормализацияСправочников.Form.ФормаНормализацияСправочников" id="eb53a4bf-af5d-4bef-bf84-2fefdb449c70" configVersion="6523a8c140a8c54d8066ee1c0e89c43700000000"/>
 		<Metadata name="DataProcessor.НормализацияСправочников.Form.ФормаНормализацияСправочников.Form" id="eb53a4bf-af5d-4bef-bf84-2fefdb449c70.0" configVersion="50a8192672a1ec4b9c7a8d16e42dcdc800000000"/>
+		<Metadata name="DataProcessor.ПанельСнабженца" id="d7937fbd-f26f-4c7d-a15a-eec682439389" configVersion="2dfeda8bdd52914bb4140ec5bc7d129600000000"/>
+		<Metadata name="DataProcessor.ПанельСнабженца.Form.Форма" id="14fa033a-6efc-4f56-a028-b2ef1b3762af" configVersion="4ce151bcacf4364184ca51edefb995e200000000"/>
+		<Metadata name="DataProcessor.ПанельСнабженца.Form.Форма.Form" id="14fa033a-6efc-4f56-a028-b2ef1b3762af.0" configVersion="6b1db8dd65e78f428876ff79b0c09cc700000000"/>
 		<Metadata name="DataProcessor.УчебнаяКонсоль" id="4bf93488-df16-4c9d-910f-38d04d35e272" configVersion="b5b0259c65b2ca4a9116807d66852cbd00000000"/>
 		<Metadata name="DataProcessor.УчебнаяКонсоль.Form.ФормаУчебнаяКонсоль" id="8b1a8db2-4ea9-4037-a183-3e598dd89e60" configVersion="1b1e5b65f85f1747a8641cff254d1a9500000000"/>
 		<Metadata name="DataProcessor.УчебнаяКонсоль.Form.ФормаУчебнаяКонсоль.Form" id="8b1a8db2-4ea9-4037-a183-3e598dd89e60.0" configVersion="7fa24ffbe4fb7949bcd8bd0c4b5f2b6d00000000"/>
