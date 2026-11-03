@@ -275,6 +275,7 @@
 			<Report>ОстаткиНаСкладах</Report>
 			<Report>ОборотнаяВедомостьМатериалов</Report>
 			<Report>ВыдачаПоОбъектам</Report>
+			<Report>ОбеспечениеОбъектов</Report>
 			<DataProcessor>УчебнаяКонсоль</DataProcessor>
 			<DataProcessor>НормализацияСправочников</DataProcessor>
 			<InformationRegister>ЦеныМатериалов</InformationRegister>

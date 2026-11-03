@@ -122,6 +122,10 @@
 		<Metadata name="InformationRegister.ЦеныМатериалов.Form.ФормаЗаписи" id="c677880b-12d5-4dcb-ae6b-06b2d29bd94e" configVersion="22d4bf2ebfc10845b4ec47a5bc87f3f100000000"/>
 		<Metadata name="InformationRegister.ЦеныМатериалов.Form.ФормаЗаписи.Form" id="c677880b-12d5-4dcb-ae6b-06b2d29bd94e.0" configVersion="8affcb55234dff45b0f105221d1a49fa00000000"/>
 		<Metadata name="Language.Русский" id="2de1c36c-9287-4d42-8ad6-96e6a96b54a1" configVersion="3bc6d154e7d7374493c5aaa8cebdd41000000000"/>
+		<Metadata name="Report.ОбеспечениеОбъектов" id="f63f989e-4505-4697-b771-d986c2b29c2e" configVersion="1d53d58bcc259843bfe35665aa662a1800000000"/>
+		<Metadata name="Report.ОбеспечениеОбъектов.ObjectModule" id="f63f989e-4505-4697-b771-d986c2b29c2e.0" configVersion="bd7043bdb3532d4cb20b7e7ecf327eac00000000"/>
+		<Metadata name="Report.ОбеспечениеОбъектов.Template.ОсновнаяСхемаКомпоновкиДанных" id="d7ccc0dc-de4a-4a03-99e1-675119c030f1" configVersion="c0189f1400174446b1234b30130c7e1f00000000"/>
+		<Metadata name="Report.ОбеспечениеОбъектов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="d7ccc0dc-de4a-4a03-99e1-675119c030f1.0" configVersion="0198bbcb682a7d498bfe6639729481e800000000"/>
 		<Metadata name="Report.ВыдачаПоОбъектам" id="8f040ea9-d225-4835-bbea-e453a55b9d8e" configVersion="2595c23f8dee0e4cbc1535f56ac1909100000000"/>
 		<Metadata name="Report.ВыдачаПоОбъектам.Template.ОсновнаяСхемаКомпоновкиДанных" id="400680f4-7983-4b53-bdb1-3448283a1a9a" configVersion="803cceca448ebc41aec99204732f707800000000"/>
 		<Metadata name="Report.ВыдачаПоОбъектам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="400680f4-7983-4b53-bdb1-3448283a1a9a.0" configVersion="7605aaa2bb6cce43acfb5df53ccc2c0600000000"/>
