@@ -46,14 +46,23 @@
 		<right>
 			<name>Read</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<condition>ПоступлениеМатериалов ГДЕ ПоступлениеМатериалов.Склад = &amp;ТекущийСклад</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>Insert</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<condition>ПоступлениеМатериалов ГДЕ ПоступлениеМатериалов.Склад = &amp;ТекущийСклад</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>Update</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<condition>ПоступлениеМатериалов ГДЕ ПоступлениеМатериалов.Склад = &amp;ТекущийСклад</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>Posting</name>
@@ -138,14 +147,23 @@
 		<right>
 			<name>Read</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<condition>ПередачаМатериалов ГДЕ ПередачаМатериалов.Склад = &amp;ТекущийСклад</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>Insert</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<condition>ПередачаМатериалов ГДЕ ПередачаМатериалов.Склад = &amp;ТекущийСклад</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>Update</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<condition>ПередачаМатериалов ГДЕ ПередачаМатериалов.Склад = &amp;ТекущийСклад</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>Posting</name>
