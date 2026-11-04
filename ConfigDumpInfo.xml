@@ -110,10 +110,17 @@
 			<Metadata name="Document.ПоступлениеМатериалов.TabularSection.Материалы" id="bbf0862f-158a-4e4b-b5ab-72f204527aae"/>
 			<Metadata name="Document.ПоступлениеМатериалов.TabularSection.Материалы.Attribute.Количество" id="d6ee625d-9da2-45d7-bd41-d15a0ea872c8"/>
 			<Metadata name="Document.ПоступлениеМатериалов.Attribute.Склад" id="d7cd8918-85a6-4064-b246-d11e31994e5f"/>
+			<Metadata name="Document.ПоступлениеМатериалов.Command.ПечатьПриходногоОрдера" id="32ade6b1-780e-4d72-bb95-e5050aa43b72"/>
 		</Metadata>
+		<Metadata name="Document.ПоступлениеМатериалов.Command.ПечатьПриходногоОрдера.CommandModule" id="32ade6b1-780e-4d72-bb95-e5050aa43b72.2" configVersion="3f0c8a1e9b2d4c5e8a7f6b1c2d3e4f5000000000"/>
 		<Metadata name="Document.ПоступлениеМатериалов.Form.ФормаДокумента" id="c4a6228e-a1f3-4b7e-90de-46d2bd95a2b6" configVersion="7dccdb4f53c7b644ba110d3a020acbb400000000"/>
 		<Metadata name="Document.ПоступлениеМатериалов.Form.ФормаДокумента.Form" id="c4a6228e-a1f3-4b7e-90de-46d2bd95a2b6.0" configVersion="4654895fb189ee4c906e06a8a446aae800000000"/>
+		<Metadata name="Document.ПоступлениеМатериалов.Form.ФормаСписка" id="9ae9e481-5a20-4961-9e4b-25aea8cd623b" configVersion="8b1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f00000000"/>
+		<Metadata name="Document.ПоступлениеМатериалов.Form.ФормаСписка.Form" id="9ae9e481-5a20-4961-9e4b-25aea8cd623b.0" configVersion="1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d00000000"/>
+		<Metadata name="Document.ПоступлениеМатериалов.ManagerModule" id="0c3fc669-b5b2-4b62-b4bb-cd70eba9e181.2" configVersion="6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b00000000"/>
 		<Metadata name="Document.ПоступлениеМатериалов.ObjectModule" id="0c3fc669-b5b2-4b62-b4bb-cd70eba9e181.0" configVersion="5812b6eebd1f824abbe21a5bb173cb8000000000"/>
+		<Metadata name="Document.ПоступлениеМатериалов.Template.ПФ_ПриходныйОрдер" id="52197009-4d78-4e7f-bfd0-b29c150774c8" configVersion="2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f00000000"/>
+		<Metadata name="Document.ПоступлениеМатериалов.Template.ПФ_ПриходныйОрдер.Template" id="52197009-4d78-4e7f-bfd0-b29c150774c8.0" configVersion="4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b00000000"/>
 		<Metadata name="Enum.ВидыКлиентов" id="f111f1ff-342b-43ef-aee8-3ced94307c2a" configVersion="9494f4eeebe09247a92c647263b5d16f00000000">
 			<Metadata name="Enum.ВидыКлиентов.EnumValue.Заказчик" id="1ade44ad-be54-4377-b7cf-0b4b521ddf4c"/>
 			<Metadata name="Enum.ВидыКлиентов.EnumValue.Подрядчик" id="54b7220b-dbda-4685-88b8-31bf6db16672"/>
