@@ -254,15 +254,19 @@
 			<Subsystem>Компания</Subsystem>
 			<Subsystem>Логистика</Subsystem>
 			<Subsystem>Разработка</Subsystem>
+			<SessionParameter>ТекущийСотрудник</SessionParameter>
+			<SessionParameter>ТекущийСклад</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<Role>БазовыеПрава</Role>
 			<Role>Кладовщик</Role>
 			<Role>Снабженец</Role>
+			<Role>СогласованиеЗаявок</Role>
 			<CommonModule>УчебныеФункции</CommonModule>
 			<CommonModule>УчебныеФункцииКлиент</CommonModule>
 			<CommonModule>НормализацияСправочниковСервер</CommonModule>
 			<CommonModule>ОстаткиМатериаловСервер</CommonModule>
 			<CommonModule>СправкиСнабженцаСервер</CommonModule>
+			<CommonModule>ПраваПользователей</CommonModule>
 			<Constant>НаименованиеКомпании</Constant>
 			<Constant>ДатаНачалаУчёта</Constant>
 			<Catalog>Клиенты</Catalog>
