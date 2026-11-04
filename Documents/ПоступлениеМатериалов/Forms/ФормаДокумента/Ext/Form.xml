@@ -207,6 +207,7 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ПересчитатьСуммы</Action>
+			<ModifiesSavedData>true</ModifiesSavedData>
 		</Command>
 	</Commands>
 </Form>

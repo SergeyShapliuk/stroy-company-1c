@@ -254,6 +254,10 @@
 			<Subsystem>Компания</Subsystem>
 			<Subsystem>Логистика</Subsystem>
 			<Subsystem>Разработка</Subsystem>
+			<Role>ПолныеПрава</Role>
+			<Role>БазовыеПрава</Role>
+			<Role>Кладовщик</Role>
+			<Role>Снабженец</Role>
 			<CommonModule>УчебныеФункции</CommonModule>
 			<CommonModule>УчебныеФункцииКлиент</CommonModule>
 			<CommonModule>НормализацияСправочниковСервер</CommonModule>
