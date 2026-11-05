@@ -256,11 +256,13 @@
 			<Subsystem>Разработка</Subsystem>
 			<SessionParameter>ТекущийСотрудник</SessionParameter>
 			<SessionParameter>ТекущийСклад</SessionParameter>
+			<SessionParameter>ТекущийОбъектСтроительства</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<Role>БазовыеПрава</Role>
 			<Role>Кладовщик</Role>
 			<Role>Снабженец</Role>
 			<Role>СогласованиеЗаявок</Role>
+			<Role>Прораб</Role>
 			<CommonModule>УчебныеФункции</CommonModule>
 			<CommonModule>УчебныеФункцииКлиент</CommonModule>
 			<CommonModule>НормализацияСправочниковСервер</CommonModule>
